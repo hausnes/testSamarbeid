@@ -14,6 +14,7 @@ console.log("Løyst oppgåve 2.");
 console.log("Løyst oppgåve 3.");
 
 // 4. Write a function that takes in a number and returns the number times itself. Then run the function and print the result.
+console.log("Løyst oppgåve 4.");
 
 // 5. Write a function that takes in a string and returns the first letter of the string. Then run the function and print the result.
 
