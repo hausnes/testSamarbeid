@@ -27,7 +27,7 @@ console.log("Løyst oppgåve 4.");
 // 9. Write a function that takes in a number and returns the square root. Then run the function and print the result.
 
 // 10. Write a function that takes in a string and returns the last three letters. Then run the function and print the result.
-console.log("Løyst oppgåve 10.");
+console.log("Løyst oppgåve 10, skikkeleg denne gongen.");
 
 // 11. Write a function that takes in an array of numbers and returns the first item in the array. Then run the function and print the result.
 
