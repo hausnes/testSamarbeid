@@ -37,6 +37,7 @@ console.log("Løyst oppgåve 10, skikkeleg denne gongen.");
 console.log("Løyst oppgåve 12.");
 
 // 13. Write a function that takes in an array of numbers and returns true if the first and last items are the same. Then run the function and print the result.
+console.log("Løyst oppgåve 13.");
 
 // 14. Write a function that takes in an array of numbers and returns the sum of all the numbers. Then run the function and print the result.
 
