@@ -23,6 +23,7 @@ console.log("Løyst oppgåve 4.");
 // 7. Write a function that takes in a number and returns the number as a string. Then run the function and print the result.
 
 // 8. Write a function that takes in a string and returns the first two letters. Then run the function and print the result.
+console.log("Løyst oppgåve 8.");
 
 // 9. Write a function that takes in a number and returns the square root. Then run the function and print the result.
 
