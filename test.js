@@ -2,6 +2,10 @@
 // Solve each problem and log the result to the console.
 
 // 1. Write a function that takes in a number and returns the number times two. Then run the function and print the result.
+function timesTwo(n) {
+  return n*2;
+}
+console.log(timesTwo(2));
 
 // 2. Write a function that takes in a string and returns the string with all capital letters. Then run the function and print the result.
 
